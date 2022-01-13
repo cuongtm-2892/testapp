@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-* Day la cahpter 6
+* Day la chapter test new
